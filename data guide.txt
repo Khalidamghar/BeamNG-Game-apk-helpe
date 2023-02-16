@@ -33,70 +33,70 @@
     },
     "guideData": [
     {
-      "image_link": "https://wallpaper.dog/large/20487356.jpg",
-      "title": "Lorem 1",
-        "text_Content": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving you level at this game.",
-        "text_Content_1": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving you level at this game."
+      "image_link": "https://iili.io/HGd7mKJ.jpg",
+      "title": "BeamNG Game 1",
+        "text_Content": "BeamNG.drive is a physics-based vehicle simulator game developed and published by BeamNG GmbH. The game allows players to drive, crash, and modify a wide variety of vehicles in a detailed, open-world environment. With its advanced physics engine and realistic vehicle damage system, BeamNG.drive has gained a loyal following among both casual gamers and driving enthusiasts..",
+        "text_Content_1": "."
 
 
 
       
     },
     {
-      "image_link": "https://wallpaper.dog/large/20487356.jpg",
-      "title": "Lorem 2",
-        "text_Content": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving you level at this game.",
-        "text_Content_1": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving you level at this game."
+      "image_link": "https://iili.io/HGd7DPa.jpg",
+      "title": "BeamNG Game 2",
+        "text_Content": "The core gameplay of BeamNG.drive revolves around driving various vehicles in a large, open-world environment. Players can choose from a wide variety of vehicles, including cars, trucks, buses, and even heavy machinery such as cranes and bulldozers. Each vehicle has its unique physics properties and handling characteristics, which affect how it behaves on the road and how it responds to different types of collisions and crashes..",
+        "text_Content_1": "."
 
 
 
       
     },
     {
-      "image_link": "https://wallpaper.dog/large/20487356.jpg",
-      "title": "Lorem 3",
-        "text_Content": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving you level at this game.",
-        "text_Content_1": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving you level at this game."
+      "image_link": "https://iili.io/HGd7tMg.jpg",
+      "title": "BeamNG Game 3",
+        "text_Content": "The physics engine that powers BeamNG.drive is one of the most advanced in any video game. It simulates every aspect of a vehicle's behavior, including suspension, weight distribution, tire pressure, and aerodynamics. This means that even minor changes to a vehicle's setup can have a significant impact on how it handles and performs..",
+        "text_Content_1": "."
 
 
 
       
     }
     ,{
-      "image_link": "https://wallpaper.dog/large/20487356.jpg",
-      "title": "Lorem 4",
-        "text_Content": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving you level at this game.",
-        "text_Content_1": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving you level at this game."
+      "image_link": "https://iili.io/HGd7ySR.jpg",
+      "title": "BeamNG Game 4",
+        "text_Content": "In addition to driving and crashing vehicles, BeamNG.drive allows players to modify and customize them in various ways. This includes adding performance upgrades, changing the paint job, and even swapping out the engine and drivetrain. The game's modding community has created a vast array of custom vehicle models, maps, and gameplay mods that add even more depth and variety to the game..",
+        "text_Content_1": "."
 
 
 
       
     },
     {
-      "image_link": "https://wallpaper.dog/large/20487356.jpg",
-      "title": "Lorem 5",
-        "text_Content": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving you level at this game.",
-        "text_Content_1": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving you level at this game."
+      "image_link": "https://iili.io/HGd7pcv.jpg",
+      "title": "BeamNG Game 5",
+        "text_Content": "Another standout feature of BeamNG.drive is its realistic vehicle damage system. When a vehicle collides with an object or another vehicle, its body panels can dent, crumple, and even break off entirely. The game simulates the effects of collisions on every part of the vehicle, from the chassis and suspension to the engine and transmission. This creates an incredibly immersive and visceral experience, as players watch their vehicles crumple and deform in real-time..",
+        "text_Content_1": "."
 
 
 
       
     },
     {
-      "image_link": "https://wallpaper.dog/large/20487356.jpg",
-      "title": "Lorem 6",
-        "text_Content": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving you level at this game.",
-        "text_Content_1": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving you level at this game."
+      "image_link": "https://iili.io/HGdYH9p.jpg",
+      "title": "BeamNG Game 6",
+        "text_Content": "BeamNG.drive also features a robust sandbox mode, which allows players to experiment with the physics engine and create their scenarios. This mode provides a wide range of tools and options for players to design custom tracks, ramps, obstacles, and more. Players can even use the game's built-in editor to create custom vehicles from scratch, complete with unique physics properties and handling characteristics..",
+        "text_Content_1": "."
 
 
 
       
     },
     {
-      "image_link": "https://wallpaper.dog/large/20487356.jpg",
-      "title": "Lorem 7",
-        "text_Content": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving you level at this game.",
-        "text_Content_1": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving you level at this game."
+      "image_link": "https://iili.io/HGdYJAN.jpg",
+      "title": "BeamNG Game 7",
+        "text_Content": "BeamNG.drive has had a significant impact on the gaming industry, particularly in the driving and simulation game genres. The game's realistic physics engine and vehicle damage system have set a new standard for realism and immersion in video games. Many other driving games have since tried to emulate BeamNG.drive's physics engine, but none have come close to replicating its level of detail and accuracy..",
+        "text_Content_1": "."
 
 
 
